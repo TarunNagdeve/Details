@@ -8,4 +8,4 @@ not,visualizing the data, checking for outliers, checking the correlation betwee
 * EDA helps us to check for missing values and what technique should be used to fill them.
 * EDA helps us to how important a particular feature is to us and whether or not to include that feature while training our model.
 * EDA also helps us to generate new features from the existing ones that increase the efficiency of our models.
-* EDA helps us to understand how does one feature changes with respect to others.
+* EDA helps us to understand how much one feature is related to other.
